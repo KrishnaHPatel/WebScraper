@@ -1,4 +1,4 @@
-# Sitemap URL Extractor and Content Scraper
+# Sitemap URL Extractor + Web Content Scraper
 
 This project provides a script to extract URLs from a sitemap and fetch text content from those URLs. The extracted data is saved into CSV and JSON formats. This is useful to gathering and processing large amounts of data easily.
 
@@ -7,7 +7,7 @@ This project provides a script to extract URLs from a sitemap and fetch text con
 - Extract URLs from a sitemap.
 - Fetch and extract text from web pages.
 - Save extracted data to CSV and JSON files.
-- Simple Command Line Interface -- which is a text-based interface where you can input commands that interact with a computer's operating system.
+- Includes a Simple Command Line Interface -- which is a text-based interface where you can input commands that interact with a computer's operating system.
 
 ## Installation
 
@@ -17,7 +17,7 @@ This project provides a script to extract URLs from a sitemap and fetch text con
    cd sitemap-url-extractor
 
 2. Install the required dependencies:
-
+    ```bash
     pip install -r requirements.txt
 
 ## Usage
